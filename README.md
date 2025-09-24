@@ -20,7 +20,7 @@
 **DONUT** is a design prototype built in Figma.  
 It illustrates the user interface, experience flows, and key interactions of the envisioned product.  
 This repository holds the prototype link, design rationale, and related assets.
-![image](Screenshot 2025-09-19 164139.png)
+- ![image](Screenshot 2025-09-19 164139.png)
 
 ---
 
@@ -54,7 +54,7 @@ flowchart LR
     B -->|Animation: Push| C[Screen Transition]
     C -->|Direction: Left to Right| D[Next Screen]
 ```
-![Screenshot for reference](Screenshot 2025-09-24 133815.png)
+- ![Screenshot for reference](Screenshot 2025-09-24 133815.png)
 
 ---
 
@@ -62,17 +62,31 @@ flowchart LR
 
 Here are sample flows described in the prototype:
 
-1. **Onboarding → Dashboard**  
-   New user lands on onboarding screens, then proceeds to the main dashboard.
+```mermaid
+flowchart TD
+    A[Start: DONUT Prototype Idea] --> B[Create Frames: MacBook Air - 1 & 2]
+    B --> C[Add Visual Elements]
+    C --> C1[Donut Image / Graphics]
+    C --> C2[Background Colors & Shapes]
+    C --> C3[Text Layers: Title & Description]
 
-2. **Dashboard → Detail → Edit → Save → Dashboard**  
-   Selecting an item opens detail, then the user can edit and return.
+    C3 --> D[Switch to Prototype Mode]
+    D --> E[Create Interaction]
+    E --> E1[Trigger: On Drag]
+    E --> E2[Action: Navigate To → MacBook Air - 1]
+    E --> E3[Animation: Push]
 
-3. **Dashboard → Create New → Submit → Dashboard**  
-   User taps “Add” → sees creation form → submits → list updates.
+    E3 --> F[Configure Settings]
+    F --> F1[Enable Animate Matching Layers]
+    F --> F2[Direction: Left → Right]
+    F --> F3[Curve: Ease in and out (back)]
+    F --> F4[Duration: 900ms]
 
-You may wish to include a visual flowchart or link to your flow diagram as well.
-
+    F4 --> G[Test Prototype in Figma]
+    G --> H[Iterate: Adjust timing, layers, flow]
+    H --> I[Finalize Prototype]
+    I --> J[Share Link / Present]
+```
 ---
 
 ## Technology & Tools
@@ -91,7 +105,7 @@ You may wish to include a visual flowchart or link to your flow diagram as well.
 
 1. Click the [Live Prototype link](https://www.figma.com/proto/mDgz7kCv9X1BfiLJoghkMT/DONUT?node-id=3-3&p=f&t=2c4ww5vjYPg83QCH-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1) to open the interactive prototype in Figma.  
 2. Navigate through screens using the built interactions or Figma’s prototype controls.
-3. ![assembly of the elements](Screenshot 2025-09-19 164103.png)
+- ![assembly of the elements](Screenshot 2025-09-19 164103.png)
 
 
 ---
