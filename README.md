@@ -42,13 +42,17 @@ Below is an overview of main screens and features:
 | **Detail / Item View** | When selecting an item, view its full details and actions |
 | **Create / Add New** | Screen or modal to create a new item, entry, or record |
 | **Edit / Settings** | Interface to configure or modify existing content |
-| **Transitions & Animations** | # Interaction Flow (Figma Prototype)
+| **Transitions & Animations** | flowchart LR|
+| **Navigation** | Bottom nav, side menu, or tab bar for moving between core sections |
+
+# Interaction Flow (Figma Prototype)
+
+```mermaid
 flowchart LR
     A[MacBook Air - 2] -- On Drag --> B[MacBook Air - 1]
     B -->|Animation: Push| C[Screen Transition]
     C -->|Direction: Left to Right| D[Next Screen]
- |
-| **Navigation** | Bottom nav, side menu, or tab bar for moving between core sections |
+```
 
 ---
 
