@@ -21,7 +21,7 @@
 It illustrates the user interface, experience flows, and key interactions of the envisioned product.  
 This repository holds the prototype link, design rationale, and related assets.
 <p align="center">
-  <img src="Screenshot 2025-09-19 164139.png" alt="Prototype" width="400"/>
+  <img src="Screenshot 2025-09-19 164139.png" alt="Prototype" width="200"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@ flowchart LR
     C -->|Direction: Left to Right| D[Next Screen]
 ```
 <p align="center">
-  <img src="Screenshot 2025-09-24 133815.png" alt="reference" width="400"/>
+  <img src="Screenshot 2025-09-24 133815.png" alt="reference" width="200"/>
 </p>
 
 
@@ -99,11 +99,11 @@ flowchart TD
 - **Figma** — for designing screens, prototyping interactions, and sharing links  
 - **Git / GitHub** — version control, hosting README, design documentation
 - <p float="left">
-  <img src="08cc49aa25d087cffd487701f70445d2-removebg-preview.png" width="200"/>
-  <img src="8a8422ee3c64611435e168a2a9a1f278-removebg-preview.png" width="200"/>
-  <img src="a79c3c7ed953e8b51c3b006323933316-removebg-preview.png" width="200"/>
-  <img src="Scattering_of_tasty_chocolate_chips_on_white_background_chocolate_morsels_on_white_background_choco_chips_3d_illustration_3d_rendering___Premium_Photo-removebg-preview.png" width="200"/>
-  <img src="ce6425384737e5b1c33e9d6d316115f8-removebg-preview.png" width="200"/>
+  <img src="08cc49aa25d087cffd487701f70445d2-removebg-preview.png" width="125"/>
+  <img src="8a8422ee3c64611435e168a2a9a1f278-removebg-preview.png" width="125"/>
+  <img src="a79c3c7ed953e8b51c3b006323933316-removebg-preview.png" width="125"/>
+  <img src="Scattering_of_tasty_chocolate_chips_on_white_background_chocolate_morsels_on_white_background_choco_chips_3d_illustration_3d_rendering___Premium_Photo-removebg-preview.png" width="125"/>
+  <img src="ce6425384737e5b1c33e9d6d316115f8-removebg-preview.png" width="125"/>
 </p>
 ---
 
@@ -112,7 +112,7 @@ flowchart TD
 1. Click the [Live Prototype link](https://www.figma.com/proto/mDgz7kCv9X1BfiLJoghkMT/DONUT?node-id=3-3&p=f&t=2c4ww5vjYPg83QCH-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1) to open the interactive prototype in Figma.  
 2. Navigate through screens using the built interactions or Figma’s prototype controls.
 <p align="center">
-  <img src="Screenshot 2025-09-19 164103.png" alt="Assembly oof Elements" width="400"/>
+  <img src="Screenshot 2025-09-19 164103.png" alt="Assembly oof Elements" width="200"/>
 </p>
 
 
